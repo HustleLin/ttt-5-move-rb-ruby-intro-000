@@ -10,4 +10,3 @@ end
 def input_to_index
   puts "move.to_i - 1"
 end
-def move(board, input_to_index, character = "X")
