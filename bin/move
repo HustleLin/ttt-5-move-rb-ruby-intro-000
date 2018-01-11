@@ -3,3 +3,5 @@
 require_relative '../lib/move.rb'
 
 # Code your CLI Here
+puts "Hi welcome to tic-tac-toe."
+name = gets.strip
